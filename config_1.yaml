@@ -1,0 +1,5 @@
+data_path: "/data/chi/PROJECTS_Archive/2022_CHI_PROPOSALS/Manthiram_Covid-tonsil_CHI-306/306_4_MERGED_RUN3/aggr_1/outs/count/filtered_feature_bc_matrix.h5"
+rawdir: "/data/chi/PROJECTS/23-309_Tussiwand/RUN/23-309-3/CITEseq/RUN2/DATA2/"
+lanes: [7,8,9] 
+output_prefix: "test/V2"
+prefix: "multi_config_"
